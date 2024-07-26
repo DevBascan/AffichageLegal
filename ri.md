@@ -1,4 +1,4 @@
-![Logo du lycée Louis Bascan](https://lyc-bascan.fr/reglement_interieur/images/logo_LyceeLouisBascan.jpg)
+<a href="https://lyc-bascan.fr" target="_blank" title="vers lyc-bascan.fr"><img src="https://lyc-bascan.fr/reglement_interieur/images/logo_LyceeLouisBascan.jpg" alt="Logo du lycée Louis Bascan" width="300" height="83"></a>
 
 # RÈGLEMENT INTÉRIEUR
 
@@ -656,6 +656,5 @@ Les demandes, pour la constitution d’un dossier de bourse, doivent être adres
 
 ---
 
-|→ [Télécharger le réglement intérieur](https://drive.google.com/file/d/1qKChJNrORCoeVEAiUWeE_IW56Q6jONxK/view?usp=sharing)<br>
+|→ <a href="https://drive.google.com/file/d/1qKChJNrORCoeVEAiUWeE_IW56Q6jONxK/view?usp=sharing" target="_blank" title="document destiné à l'impression, au format pdf">Télécharger le réglement intérieur</a><br>
 <sup><sub>Document destiné à l'impression, au format pdf.</sub></sup>
-
