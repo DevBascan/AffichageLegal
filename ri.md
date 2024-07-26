@@ -1,3 +1,5 @@
+![Logo du lycée Louis Bascan](https://lyc-bascan.fr/reglement_interieur/images/logo_LyceeLouisBascan.jpg)
+
 # RÈGLEMENT INTÉRIEUR
 
 (Délibérations des Conseils d’Administration du 2 juillet 2001 et du 22 juin 2004, du 1er juillet 2008, du 2 juin 2009, du 8 mars 2011, du 15 décembre 2021)
