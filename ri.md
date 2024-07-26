@@ -439,7 +439,7 @@ Le stationnement en dehors des emplacements prévus à cet effet expose les prop
 
 ## CHAPITRE V : MISE EN ŒUVRE DE LA DISCIPLINE
 
-### 5.1 Les mesures d’encouragement et mises en garde**
+### 5.1 Les mesures d’encouragement et mises en garde
 
 Elles sanctionnent toute dynamique positive ou négative de l’élève tant dans son comportement que dans ses résultats et dans son implication dans la vie scolaire de l’établissement.
 
