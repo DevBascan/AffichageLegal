@@ -137,7 +137,7 @@ Les absences non justifiées d’au moins quatre demi-journées par mois seront 
 
 Les absences injustifiées conduisent à l’examen de la situation de l’élève par le conseiller principal d’éducation ou par une commission éducative ou de vie scolaire. Selon les situations, des mesures d’accompagnement ou des sanctions seront prononcées.
 
-##### 2.2.3 Le traitement des retards
+#### 2.2.3 Le traitement des retards
 
 Les retards nuisent à la scolarité et perturbent le déroulement des cours.
 
