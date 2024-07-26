@@ -651,3 +651,11 @@ La confidentialité de tout entretien au sein du service médico-social est gara
 Les demandes, pour la constitution d’un dossier de bourse, doivent être adressées au secrétariat du lycée. Le régime des bourses est annuel et forfaitaire. Le versement aux familles est trimestriel.
 
 **_Signature de L’élève, de la Mère, du Père ou du Responsable légal,_**
+
+![Cadre signature](https://lyc-bascan.fr/reglement_interieur/images/cadre_signature.png) ![Cadre signature](https://lyc-bascan.fr/reglement_interieur/images/cadre_signature.png) ![Cadre signature](https://lyc-bascan.fr/reglement_interieur/images/cadre_signature.png) ![Cadre signature](https://lyc-bascan.fr/reglement_interieur/images/cadre_signature.png)
+
+---
+
+|→ [Télécharger le réglement intérieur](https://drive.google.com/file/d/1qKChJNrORCoeVEAiUWeE_IW56Q6jONxK/view?usp=sharing)<br>
+<sup><sub>Document destiné à l'impression, au format pdf.</sub></sup>
+
