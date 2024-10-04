@@ -1,8 +1,8 @@
 <a href="https://lyc-bascan.fr" target="_blank" title="vers lyc-bascan.fr"><img src="https://lyc-bascan.fr/reglement_interieur/images/logo_LyceeLouisBascan.jpg" alt="Logo du lycée Louis Bascan" width="300" height="83"></a>
 
-# Élections au CVL du lycée Louis-Bascan
-
 ![Affiche élections CVL](https://lyc-bascan.fr/wp-content/uploads/2024/09/annonce_elections_delegues_CVL_2024_2025.jpg "Affiche élections CVL")
+
+# Élections au CVL du lycée Louis-Bascan
 
 ## Les modalités
 
