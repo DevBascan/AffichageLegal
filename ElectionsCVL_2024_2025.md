@@ -1,15 +1,3 @@
-# Élections au CVL
-
-## Les modalités
-
-## La liste des candidats
-
-## Les professions de foi
-
-## L'importance de voter
-
-<hr>
-
 <a href="https://lyc-bascan.fr" target="_blank" title="vers lyc-bascan.fr"><img src="https://lyc-bascan.fr/reglement_interieur/images/logo_LyceeLouisBascan.jpg" alt="Logo du lycée Louis Bascan" width="300" height="83"></a>
 
 # Élections au CVL du lycée Louis-Bascan
