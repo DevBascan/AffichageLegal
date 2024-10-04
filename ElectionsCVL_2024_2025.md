@@ -6,7 +6,7 @@
 
 Les électeurs peuvent choisir jusqu'à **5 candidats**, correspondant aux **5 sièges** vacants pour les élus du CVL.
 
-Le vote est **uniquement électronique** via la plateforme **Pronote** dès vendredi 4 octobre 2024 de 8h00 de matin à minuit.
+Le vote est **uniquement électronique** via la plateforme **Pronote** dès vendredi 4 octobre 2024 de 8h00 du matin à minuit.
 
 ## La liste des candidats
 
