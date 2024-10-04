@@ -4,6 +4,8 @@
 
 # Élections au CVL du lycée Louis-Bascan
 
+**Un seul mot d’ordre :** « Pour que le lycée bouge ! »
+
 ## Les modalités
 
 Les électeurs peuvent choisir jusqu'à **5 candidats**, correspondant aux **5 sièges** vacants pour les élus du CVL.
