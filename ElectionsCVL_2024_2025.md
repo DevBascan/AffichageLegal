@@ -2,7 +2,7 @@
 
 # Élections au CVL du lycée Louis-Bascan
 
-<img src="https://lyc-bascan.fr/wp-content/uploads/2024/09/annonce_elections_delegues_CVL_2024_2025.jpg?" alt="Affiche élections CVL">
+![Affiche élections CVL](https://lyc-bascan.fr/wp-content/uploads/2024/09/annonce_elections_delegues_CVL_2024_2025.jpg "Affiche élections CVL")
 
 ## Les modalités
 
